@@ -1,0 +1,28 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Data
+data/
+*.csv
+*.json
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.log
+*.pid
+*.sock
+docker-compose.override.yml
+
+# MLflow
+mlruns/
+
