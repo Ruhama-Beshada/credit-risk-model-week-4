@@ -5,3 +5,7 @@ mlflow
 pytest
 xgboost
 lightgbm
+fastapi
+uvicorn
+flake8
+black
